@@ -214,6 +214,7 @@ To develop interest in this hub we start with manual robotic lectures and worksh
 
 We have a team of skilled mentors from both third and fourth year who have proved their mettle at many Robotics events held at many esteemed colleges of India including IITs, DCE, and NSIT etc. We have experience of conducting workshops and organizing events during college fests. The main aim of the cell is to enrich the technical ability of the students and learn modern technology and advance towards them. This cell helps in building teamwork capacity, leader capacity and many more issues.
 
+An international conference is organized by Robotics called IC3.In this various autonoumus projects are exhibited.
 All the above provide you with more opportunities and capabilities. These workshops and competitions are organized with zeal and enthusiasm to share with the participants the passion of coding and provide them a competitive environment to polish their skills and enhance their problem solving abilities.
 
 It also encourages and facilitates student participation in various national, international, and online programming competitions. For more details, please visit http://www.ucrjiit.com
